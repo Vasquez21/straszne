@@ -75,6 +75,6 @@
   "minimumCoreVersion": "0.7.4",
   "compatibleCoreVersion": "0.7.9",
   "protected" : true,
-  "url": "https://foundryvtt.com/packages/wfrp4e-rnhd/",
-  "manifest": "https://foundry-c7-manifests.s3.us-east-2.amazonaws.com/wfrp4e-rnhd/module.json"
+  "url" : "https://github.com/Vasquez21/straszne",
+  "manifest" : "https://raw.githubusercontent.com/Vasquez21/straszne/master/module.json"  
 }
