@@ -1,0 +1,522 @@
+{
+  "name": "Random Career",
+  "extend": true,
+  "columns": [
+    "gnome"
+  ],
+  "rows": [
+    {
+      "range": {
+        "gnome": [
+          1,
+          1
+        ]
+      },
+      "name": "Apothecary"
+    },
+    {
+      "range": {
+        "gnome": []
+      },
+      "name": "Engineer"
+    },
+    {
+      "range": {
+        "gnome": [
+          2,
+          2
+        ]
+      },
+      "name": "Lawyer"
+    },
+    {
+      "range": {
+        "gnome": []
+      },
+      "name": "Nun"
+    },
+    {
+      "range": {
+        "gnome": [
+          3,
+          4
+        ]
+      },
+      "name": "Physician"
+    },
+    {
+      "range": {
+        "gnome": [
+          5,
+          5
+        ]
+      },
+      "name": "Priest"
+    },
+    {
+      "range": {
+        "gnome": [
+          6,
+          7
+        ]
+      },
+      "name": "Scholar"
+    },
+    {
+      "range": {
+        "gnome": [
+          8,
+          14
+        ]
+      },
+      "name": "Wizard"
+    },
+    {
+      "range": {
+        "gnome": [
+          15,
+          15
+        ]
+      },
+      "name": "Agitator"
+    },
+    {
+      "range": {
+        "gnome": [
+          16,
+          17
+        ]
+      },
+      "name": "Artisan"
+    },
+    {
+      "range": {
+        "gnome": [
+          18,
+          18
+        ]
+      },
+      "name": "Beggar"
+    },
+    {
+      "range": {
+        "gnome": [
+          19,
+          19
+        ]
+      },
+      "name": "Investigator"
+    },
+    {
+      "range": {
+        "gnome": [
+          20,
+          21
+        ]
+      },
+      "name": "Merchant"
+    },
+    {
+      "range": {
+        "gnome": [
+          22,
+          22
+        ]
+      },
+      "name": "Rat Catcher"
+    },
+    {
+      "range": {
+        "gnome": [
+          23,
+          28
+        ]
+      },
+      "name": "Townsman"
+    },
+    {
+      "range": {
+        "gnome": [
+          29,
+          29
+        ]
+      },
+      "name": "Watchman"
+    },
+    {
+      "range": {
+        "gnome": [
+          30,
+          30
+        ]
+      },
+      "name": "Advisor"
+    },
+    {
+      "range": {
+        "gnome": [
+          31,
+          31
+        ]
+      },
+      "name": "Artist"
+    },
+    {
+      "range": {
+        "gnome": []
+      },
+      "name": "Duelist"
+    },
+    {
+      "range": {
+        "gnome": [
+          32,
+          32
+        ]
+      },
+      "name": "Envoy"
+    },
+    {
+      "range": {
+        "gnome": [
+          33,
+          33
+        ]
+      },
+      "name": "Noble"
+    },
+    {
+      "range": {
+        "gnome": [
+          34,
+          35
+        ]
+      },
+      "name": "Servant"
+    },
+    {
+      "range": {
+        "gnome": [
+          36,
+          40
+        ]
+      },
+      "name": "Spy"
+    },
+    {
+      "range": {
+        "gnome": [
+          41,
+          42
+        ]
+      },
+      "name": "Warden"
+    },
+    {
+      "range": {
+        "gnome": [
+          43,
+          43
+        ]
+      },
+      "name": "Bailiff"
+    },
+    {
+      "range": {
+        "gnome": []
+      },
+      "name": "Hedge Witch"
+    },
+    {
+      "range": {
+        "gnome": [
+          44,
+          44
+        ]
+      },
+      "name": "Herbalist"
+    },
+    {
+      "range": {
+        "gnome": [
+          45,
+          46
+        ]
+      },
+      "name": "Hunter"
+    },
+    {
+      "range": {
+        "gnome": [
+          47,
+          54
+        ]
+      },
+      "name": "Miner"
+    },
+    {
+      "range": {
+        "gnome": []
+      },
+      "name": "Mystic"
+    },
+    {
+      "range": {
+        "gnome": [
+          55,
+          58
+        ]
+      },
+      "name": "Scout"
+    },
+    {
+      "range": {
+        "gnome": [
+          59,
+          62
+        ]
+      },
+      "name": "Villager"
+    },
+    {
+      "range": {
+        "gnome": [
+          63,
+          63
+        ]
+      },
+      "name": "Bounty Hunter"
+    },
+    {
+      "range": {
+        "gnome": []
+      },
+      "name": "Coachman"
+    },
+    {
+      "range": {
+        "gnome": [
+          64,
+          68
+        ]
+      },
+      "name": "Entertainer"
+    },
+    {
+      "range": {
+        "gnome": []
+      },
+      "name": "Flagellant"
+    },
+    {
+      "range": {
+        "gnome": [
+          69,
+          69
+        ]
+      },
+      "name": "Messenger"
+    },
+    {
+      "range": {
+        "gnome": [
+          70,
+          75
+        ]
+      },
+      "name": "Pedlar"
+    },
+    {
+      "range": {
+        "gnome": []
+      },
+      "name": "Road Warden"
+    },
+    {
+      "range": {
+        "gnome": []
+      },
+      "name": "Witch Hunter"
+    },
+    {
+      "range": {
+        "gnome": [
+          76,
+          76
+        ]
+      },
+      "name": "Boatman"
+    },
+    {
+      "range": {
+        "gnome": []
+      },
+      "name": "Huffer"
+    },
+    {
+      "range": {
+        "gnome": [
+          77,
+          80
+        ]
+      },
+      "name": "Riverwarden"
+    },
+    {
+      "range": {
+        "gnome": []
+      },
+      "name": "Riverwoman"
+    },
+    {
+      "range": {
+        "gnome": []
+      },
+      "name": "Seaman"
+    },
+    {
+      "range": {
+        "gnome": [
+          81,
+          83
+        ]
+      },
+      "name": "Smuggler"
+    },
+    {
+      "range": {
+        "gnome": []
+      },
+      "name": "Stevedore"
+    },
+    {
+      "range": {
+        "gnome": []
+      },
+      "name": "Wrecker"
+    },
+    {
+      "range": {
+        "gnome": [
+          84,
+          85
+        ]
+      },
+      "name": "Bawd"
+    },
+    {
+      "range": {
+        "gnome": [
+          86,
+          90
+        ]
+      },
+      "name": "Charlatan"
+    },
+    {
+      "range": {
+        "gnome": [
+          91,
+          91
+        ]
+      },
+      "name": "Fence"
+    },
+    {
+      "range": {
+        "gnome": []
+      },
+      "name": "Grave Robber"
+    },
+    {
+      "range": {
+        "gnome": [
+          92,
+          92
+        ]
+      },
+      "name": "Outlaw"
+    },
+    {
+      "range": {
+        "gnome": [
+          93,
+          94
+        ]
+      },
+      "name": "Racketeer"
+    },
+    {
+      "range": {
+        "gnome": [
+          95,
+          97
+        ]
+      },
+      "name": "Thief"
+    },
+    {
+      "range": {
+        "gnome": []
+      },
+      "name": "Witch"
+    },
+    {
+      "range": {
+        "gnome": []
+      },
+      "name": "Cavalryman"
+    },
+    {
+      "range": {
+        "gnome": [
+          98,
+          98
+        ]
+      },
+      "name": "Guard"
+    },
+    {
+      "range": {
+        "gnome": []
+      },
+      "name": "Knight"
+    },
+    {
+      "range": {
+        "gnome": []
+      },
+      "name": "Pit Fighter"
+    },
+    {
+      "range": {
+        "gnome": []
+      },
+      "name": "Protagonist"
+    },
+    {
+      "range": {
+        "gnome": [
+          99,
+          99
+        ]
+      },
+      "name": "Soldier"
+    },
+    {
+      "range": {
+        "gnome": []
+      },
+      "name": "Slayer"
+    },
+    {
+      "range": {
+        "gnome": [
+          100,
+          100
+        ]
+      },
+      "name": "Warrior Priest"
+    }
+  ]
+}

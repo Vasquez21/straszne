@@ -1,0 +1,36 @@
+{
+  "name": "Species Table",
+  "die" : "1d100",
+  "rows": [
+    {
+      "name": "Human",
+      "value": "human",
+      "range": [1, 89]
+    },
+    {
+      "name": "Halfling",
+      "value": "halfling",
+      "range": [90, 93]
+    },
+    {
+      "name": "Dwarf",
+      "value": "dwarf",
+      "range": [94, 97]
+    },
+    {
+      "name": "Gnome",
+      "value": "gnome",
+      "range": [98, 98]
+    },
+    {
+      "name": "High Elf",
+      "value": "helf",
+      "range": [99, 99]
+    },
+    {
+      "name": "Wood Elf",
+      "value": "welf",
+      "range": [100, 100]
+    }
+  ]
+}

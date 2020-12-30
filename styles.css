@@ -1,0 +1,53 @@
+/* #wfrp-clock img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  } */
+
+  #wfrp-clock {
+    min-width: 200px;
+    min-height: 310px;
+  }
+
+  #wfrp-clock.app.window-app .window-content {
+      overflow-y: hidden
+  }
+
+  #wfrp-clock .clock-container {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  #wfrp-clock .clockface {
+    position: relative;
+    top: 0;
+    left: 0;
+    /* border: 1px red solid; */
+  }
+
+  #wfrp-clock img{
+    object-fit: contain;
+    cursor: url(/systems/wfrp4e/ui/cursors/pointer.png), pointer;
+  }
+
+  #wfrp-clock .hour ,
+    #wfrp-clock .minute {
+    position: absolute;
+    top: 44px;
+    left: 0px;
+    /*border: 1px green solid;*/
+  }
+
+  #wfrp-clock h2 {
+    font-size: 2.0em;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-bottom: 1px solid black;
+    font-family: CaslonAntique;
+    color: #CCC;
+    text-align: center;
+    margin: 0
+  }
+
+

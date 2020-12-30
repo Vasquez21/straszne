@@ -1,0 +1,80 @@
+{
+  "name": "wfrp4e-rnhd",
+  "title": "WFRP4e - Rough Nights & Hard Days",
+  "description": "A collection of new and classic adventures for the Warhammer Fantasy 4th Edition System, including new functionality such as a time-keeping application and the gnome race for use in character generation.",
+  "version": "1.03",
+  "author": "Moo Man, published by Cubicle 7",
+  "systems": [
+    "wfrp4e"
+  ],
+  "scripts": [
+    "scripts/chargen-gnome.js",
+    "initialization.js",
+    "scripts/clock.js",
+    "scripts/clock-app.js"
+  ],
+  "styles": [
+    "./styles.css"
+  ],
+  "packs": [
+    {
+      "name": "pubgames",
+      "label": "Pub Games",
+      "path": "packs/pubgames.db",
+      "entity": "JournalEntry",
+      "module": "wfrp4e-rnhd",
+      "system": "wfrp4e"
+    },
+    {
+      "name": "gnomes",
+      "label": "Gnomes",
+      "path": "packs/gnomes.db",
+      "entity": "JournalEntry",
+      "module": "wfrp4e-rnhd",
+      "system": "wfrp4e"
+    },
+    {
+      "label": "RNHD Actors",
+      "entity": "Actor",
+      "name": "rnhd-actors",
+      "path": "packs/rnhd-actors.db",
+      "system": "wfrp4e",
+      "package": "world"
+    },
+    {
+      "label": "RNHD Items",
+      "entity": "Item",
+      "name": "rnhd-items",
+      "path": "packs/rnhd-items.db",
+      "system": "wfrp4e",
+      "package": "world",
+      "tags": [
+        "spell",
+        "trapping",
+        "talent"
+      ]
+    },
+    {
+      "label": "RNHD Campaign",
+      "entity": "JournalEntry",
+      "name": "rnhd-campaign",
+      "path": "packs/rnhd-campaign.db",
+      "system": "wfrp4e",
+      "package": "world"
+    },
+    {
+      "label": "RNHD Scenes",
+      "entity": "Scene",
+      "name": "rnhd-scenes",
+      "path": "packs/rnhd-scenes.db",
+      "system": "wfrp4e",
+      "package": "world"
+    }
+  ],
+  "socket" : true,
+  "minimumCoreVersion": "0.7.4",
+  "compatibleCoreVersion": "0.7.9",
+  "protected" : true,
+  "url": "https://foundryvtt.com/packages/wfrp4e-rnhd/",
+  "manifest": "https://foundry-c7-manifests.s3.us-east-2.amazonaws.com/wfrp4e-rnhd/module.json"
+}
