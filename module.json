@@ -71,8 +71,6 @@
       "package": "world"
     }
   ],
-  "minimumCoreVersion": "0.7.4",
-  "compatibleCoreVersion": "0.7.9",
   "url" : "https://github.com/Vasquez21/straszne",
   "manifest" : "https://raw.githubusercontent.com/Vasquez21/straszne/master/module.json"  
 }
