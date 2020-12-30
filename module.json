@@ -3,7 +3,7 @@
   "title": "WFRP4e - Rough Nights & Hard Days",
   "description": "A collection of new and classic adventures for the Warhammer Fantasy 4th Edition System, including new functionality such as a time-keeping application and the gnome race for use in character generation.",
   "version": "1.03",
-  "author": "Moo Man, published by Cubicle 7",
+  "author": "Vsq",
   "systems": [
     "wfrp4e"
   ],
@@ -71,10 +71,8 @@
       "package": "world"
     }
   ],
-  "socket" : true,
   "minimumCoreVersion": "0.7.4",
   "compatibleCoreVersion": "0.7.9",
-  "protected" : true,
   "url" : "https://github.com/Vasquez21/straszne",
   "manifest" : "https://raw.githubusercontent.com/Vasquez21/straszne/master/module.json"  
 }
